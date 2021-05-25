@@ -2,6 +2,7 @@ backend:
   name: github
   repo: cakasuma/netlify-cms-blog
   branch: main
+  site_domain: friendly-noyce-349a9f.netlify.app
 media_folder: images/uploads
 publish_mode: editorial_workflow
 i18n:
